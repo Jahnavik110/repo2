@@ -1,7 +1,7 @@
 #inlclude<stdio.h>
 int main(){
-int a=5,b=10;
+int a=5,b=10,summ;
 summ=a+b;
-printf(summ);
+printf("sum=%d",summ);
 }
-output:15
+output:sum=15
